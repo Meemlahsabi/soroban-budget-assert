@@ -3,8 +3,11 @@ venv/
 .venv/
 contract_id.txt
 req.json
+temp_auto_push.bat
 node_modules/
 /dist
 site/dist
 *.pdf
 current_report.json
+.gitignore
+branch_structure.json
